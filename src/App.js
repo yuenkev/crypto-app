@@ -48,7 +48,7 @@ const App = () => {
             level={5}
             style={{ color: "white", textAlign: "center" }}
           >
-            Cryptoverse <br />
+            CryptoNet <br />
             All rights reservered
           </Typography.Title>
           <Space>
